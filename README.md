@@ -4,7 +4,7 @@
 2. **Клонировать репозиторий**  
 
 ```sh
-git clone https://github.com/spring-petclinic/spring-petclinic-rest.git
+git clone https://github.com/setter-getter/spring-petclinic-rest.git
 cd spring-petclinic-rest
 ```
 3. **Запустить docker контейнер**
